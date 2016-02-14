@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Numeral system", "Numeral system.csproj", "{7E336638-64E6-4BEF-856F-DD33B6D0D98A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Debug|x64.ActiveCfg = Debug|x86
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Debug|x64.Build.0 = Debug|x86
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Debug|x86.ActiveCfg = Debug|x86
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Debug|x86.Build.0 = Debug|x86
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Release|x64.ActiveCfg = Release|x86
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Release|x86.ActiveCfg = Release|x86
+		{7E336638-64E6-4BEF-856F-DD33B6D0D98A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
